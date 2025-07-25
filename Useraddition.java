@@ -1,7 +1,5 @@
-package mypackage;
-
 import java.util.Scanner;
-public class Useraddition {
+public class Addition {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
